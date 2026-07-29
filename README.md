@@ -2,7 +2,7 @@
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Release](https://img.shields.io/badge/release-v0.1.0-orange)
-![Go](https://img.shields.io/badge/Go-1.24-00ADD8?logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white)
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 ## Tổng quan
