@@ -71,8 +71,6 @@ GO_TASKMANAGER/
 
 ## Trạng thái dự án
 
-Dự án đang trong giai đoạn phát triển phiên bản đầu tiên.
-
 Phiên bản hiện tại: **v0.1.0**
 
 ## Giấy phép
